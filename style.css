@@ -47,20 +47,22 @@
 
 ul {
     margin: 0;
-    padding: 0px;
+    padding: 0;
 }
 
-li, h3 {
+li,
+h3 {
     list-style: none;
 }
 
-input,button{
+input,
+button {
     outline: none;
 }
 
 .button {
     background: none;
-    border: 0px;
+    border: 0;
     color: #888;
     font-size: 15px;
     width: 60px;
